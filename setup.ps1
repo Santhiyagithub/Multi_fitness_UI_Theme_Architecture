@@ -1,4 +1,4 @@
-$rootDir = "d:\ss11-01-26\Santhiya\Vaibhav.ai\Works_theme_website\Gym-Themes-Project"
+$rootDir = Join-Path $PSScriptRoot "Gym-Themes-Project"
 
 $themes = @(
     "theme1-performance-dashboard",

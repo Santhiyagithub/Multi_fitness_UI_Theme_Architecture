@@ -1,4 +1,4 @@
-$rootDir = "d:\ss11-01-26\Santhiya\Vaibhav.ai\Works_theme_website\Gym-Themes-Project"
+$rootDir = Join-Path $PSScriptRoot "Gym-Themes-Project"
 
 # Remove old 6-10
 $oldFolders = @("theme6-ai-command-center", "theme7-adaptive-journey", "theme8-cinematic-video", "theme9-component-system", "theme10-neuro-ux")
